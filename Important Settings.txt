@@ -1,0 +1,9 @@
+1.Mouse Wheel Zoom
+2.Cursor Smooth Carre Animation
+3.Smooth Scrolling
+4.multiscursor modifier
+5.wrap tabs
+6.Workbench Color Customizations
+7.Word wrap
+8.Tab Size ("2")
+9.Cusror Width and Color
