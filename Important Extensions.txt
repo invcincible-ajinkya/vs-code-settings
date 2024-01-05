@@ -1,0 +1,7 @@
+VS Code Important Extensions
+
+1.Prettier
+2.ES6 Snippets/React Redux Snippets
+3.Git Lens
+4.Material UI Icons
+5.One Dark Pro Theme()

@@ -1,0 +1,14 @@
+VS code font Names 
+1.Consolas
+2.MonoLisa
+3.Cascadia Code
+4.JetBrains Mono
+5.Roboto Mono
+6.Fira Code
+7.Couries New
+8.Monospace
+9.Monaco
+10.Victor Mono
+
+
+
